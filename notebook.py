@@ -6,12 +6,6 @@
     "# Predicting Stock Prices using Machine Learning\n",
     "\n",
     "### Data Mining, Machine Learning, and Deep Learning\n",
-    "\n",
-    "Kitti Kresznai (141359) <br>\n",
-    "Almut Bohnhoff (141021) <br>\n",
-    "Anastasiya Vitaliyivna Strohonova (142820) <br>\n",
-    "Natalie Schober (141354)\n",
-    "\n"
    ],
    "metadata": {
     "tags": [],
